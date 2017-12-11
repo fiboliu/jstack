@@ -1,5 +1,5 @@
 # jstack
-本项目是JavaScript开发技术栈
+本项目是JavaScript开发技术栈, 作为一个前端开发初学者来讲，个人觉得从vue cli脚手架程序入门是个很不多的选择。
 
 ## javascript开发技术栈
 - 前端框架vue: https://cn.vuejs.org/
@@ -18,6 +18,9 @@
 ```
 - 单元测试: https://facebook.github.io/jest/docs/en/getting-started.html
 - e2e测试：http://nightwatchjs.org/
+
+## 兼容性方案
+- es5-shim: https://github.com/es-shims/es5-shim
 
 ## Build Setup
 
