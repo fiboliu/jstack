@@ -4,6 +4,7 @@ import App from '@/App'
 import Home from '@/page/home/home'
 import Login from '@/page/login/login'
 import Profile from '@/page/profile/profile'
+import Index from '@/page/index/index'
 
 Vue.use(Router)
 
@@ -33,6 +34,11 @@ export default new Router({
         {
           path: '/profile',
           component: Profile
+        },
+        // index
+        {
+          path: '/index',
+          component: Index
         }
       ] // 二级路由
     } // routes
