@@ -18,6 +18,8 @@
 ```
 - 单元测试: https://facebook.github.io/jest/docs/en/getting-started.html
 - e2e测试：http://nightwatchjs.org/
+- 打包、混淆
+- 文档生成：jsdoc
 
 ## 兼容性方案
 - es5-shim: https://github.com/es-shims/es5-shim
