@@ -21,6 +21,7 @@
 - 打包、混淆
 - 文档生成：jsdoc
 - ui框架：element-ui
+- 代码规范：eslint
 
 ## 兼容性方案
 - es5-shim: https://github.com/es-shims/es5-shim
