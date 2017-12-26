@@ -18,10 +18,12 @@
 ```
 - 单元测试: https://facebook.github.io/jest/docs/en/getting-started.html
 - e2e测试：http://nightwatchjs.org/
-- 打包、混淆
+- 打包、混淆: webpack
 - 文档生成：jsdoc
 - ui框架：element-ui
 - 代码规范：eslint
+- 数据流双向绑定: vue-resource
+- 压力测试：http://dejavue.co/
 
 ## 兼容性方案
 - es5-shim: https://github.com/es-shims/es5-shim
