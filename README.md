@@ -19,7 +19,7 @@
 - 单元测试: https://facebook.github.io/jest/docs/en/getting-started.html
 - e2e测试：http://nightwatchjs.org/
 - 打包、混淆: webpack
-- 文档生成：jsdoc
+- 文档生成：jsdoc http://www.css88.com/doc/jsdoc/index.html
 - ui框架：element-ui
 - 代码规范：eslint
 - 数据流双向绑定: vue-resource
