@@ -18,7 +18,7 @@
 ```
 - 单元测试: https://facebook.github.io/jest/docs/en/getting-started.html
 - e2e测试：http://nightwatchjs.org/
-- 打包、混淆: webpack
+- 打包、混淆: webpack http://www.css88.com/doc/webpack/
 - 文档生成：jsdoc http://www.css88.com/doc/jsdoc/index.html
 - ui框架：element-ui
 - 代码规范：eslint
