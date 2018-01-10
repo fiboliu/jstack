@@ -16,6 +16,7 @@
   
  <style src="./styles/global.less" lang="less"></style>
 ```
+- e2e测试：http://nightwatchjs.org/
 - 单元测试: https://facebook.github.io/jest/docs/en/getting-started.html
 - e2e测试：http://nightwatchjs.org/
 - 打包、混淆: webpack http://www.css88.com/doc/webpack/
